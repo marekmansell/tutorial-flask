@@ -1,5 +1,8 @@
 # Návod na jednoduchý Blog vo Flasku
 
+## Prezentácia
+[Workshopová prezentácia na Slides.com](https://slides.com/marekmansell/flask-tutorial#/)
+
 ## Inštalácia
 
 Pre vytvorenie blogu budeme potrebovať:
