@@ -1,5 +1,17 @@
 # Návod na jednoduchý Blog vo Flasku
 
+## Verzia 2.0
+Ták a nastal čas zlepšiť tento materiál. Cieľom je stihnúť to do PyCon SK 2020, čiže úlohy sú nasledovné:
+- [ ] Prečistiť existujúce REPO
+- [ ] Pridať .gitignore
+- [ ] Upraviť ukážky kódov tak, aby reprezentovali jednotlivé kapitoly tutoriálu
+- [ ] Spraviť poriadne README (a nie hneď Flask návod)
+- [ ] Pridať folium návod (mapa)
+- [ ] Pridať matplotlib návod (generate the image on-the-fly)
+- [ ] Pridať sqlite návod (plus forms)
+- [ ] Pridať flask-login návod
+- [ ] Pridať flask-login návod
+
 ## Prezentácia
 [Workshopová prezentácia na Slides.com](https://slides.com/marekmansell/flask-tutorial#/)
 
